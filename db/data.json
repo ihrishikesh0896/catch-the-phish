@@ -1,0 +1,47 @@
+{
+  "domain_name": [
+    "VULNWEB.COM",
+    "vulnweb.com"
+  ],
+  "registrar": "Eurodns S.A.",
+  "whois_server": "whois.eurodns.com",
+  "referral_url": null,
+  "updated_date": [
+    "2023-05-26 07:56:15",
+    "2023-05-26 10:04:20"
+  ],
+  "creation_date": [
+    "2010-06-14 07:50:29",
+    "2010-06-14 00:00:00"
+  ],
+  "expiration_date": [
+    "2025-06-14 07:50:29",
+    "2025-06-13 00:00:00"
+  ],
+  "name_servers": [
+    "NS1.EURODNS.COM",
+    "NS2.EURODNS.COM",
+    "NS3.EURODNS.COM",
+    "NS4.EURODNS.COM",
+    "ns1.eurodns.com",
+    "ns2.eurodns.com",
+    "ns3.eurodns.com",
+    "ns4.eurodns.com"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "legalservices@eurodns.com",
+    "administrator@acunetix.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Acunetix Acunetix",
+  "org": "Acunetix Ltd",
+  "address": "3rd Floor,, J&C Building,, Road Town",
+  "city": "Tortola",
+  "state": null,
+  "registrant_postal_code": "VG1110",
+  "country": "VG"
+}
